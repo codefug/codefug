@@ -2,7 +2,7 @@
 
 [![codefug's GitHub stats](https://github-readme-stats.vercel.app/api?username=codefug&show_icons=true&title_color=0047A0&text_color=000000&icon_color=CC303B&bg_color=FFFFFF&)](https://github.com/codefug/codefug "GitHub stats card Korean flag eddition")
 
-### i was born to code everything in the world.
+### i was born to code everything in the world..
 <!--
 **codefug/codefug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
