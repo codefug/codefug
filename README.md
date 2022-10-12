@@ -4,7 +4,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codefug&layout=compact)](https://github.com/codefug/github-readme-stats)
 
-### i was born to code everything in the world..
+### 개발합니다
 <!--
 **codefug/codefug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
