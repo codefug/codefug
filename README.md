@@ -9,7 +9,7 @@
 
 - 🖋️ I like writing and wrapping up everything that i learn.
 
-- <img src="https://github.com/codefug/codefug/assets/86544979/f894009f-f524-4f61-98da-d1ba1cd92322" style="width:20px" /> Sometimes I write that down on <a href="https://velog.io/@codefug"> My Blog </a>
+- <img src="https://github.com/codefug/codefug/assets/86544979/f894009f-f524-4f61-98da-d1ba1cd92322" style="width:20px" /> Sometimes I write that down on <a href="https://codefug.github.io"> My Blog </a>
 based on what i have learned or **have been through**
 
 | category         | set                                                                                                                                                                                                                                                                                                                                                                            |
