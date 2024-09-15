@@ -5,10 +5,9 @@
 
 **About me**
 
-- 🖋️ **Obsidian** : I like writing and wrapping up everything that i learn in.
+- **Resume**: https://www.figma.com/proto/KSWARGDkXi9Wt8ARq2uGCa/leeseounghyun-resume?node-id=401-2&node-type=canvas&t=z2H9bL74afXrrgPS-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1
 
-- <img src="https://github.com/codefug/codefug/assets/86544979/f894009f-f524-4f61-98da-d1ba1cd92322" style="width:20px" /> <a href="https://codefug.github.io"> **Blog** </a> : Sometimes I write that down on My Blog
-to share what i have learned or trouble that i have been through
+- **Blog** </a> : https://codefug.github.io
 
 | <a href="https://github.com/codefug/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=codefug&show_icons=true&title_color=0047A0&text_color=000000&icon_color=CC303B&bg_color=FFFFFF&" alt="Codefug's github stats" /></a> | <a href="https://github.com/codefug/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codefug&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
