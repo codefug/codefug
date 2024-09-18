@@ -1,7 +1,5 @@
 <br />
-<div style="display:flex; justify-content:center">
-<img src="https://github.com/codefug/codefug/raw/master/assets/gh-readme-header.png" alt="로고">
-</div>
+<img src="https://github.com/codefug/codefug/raw/master/assets/gh-readme-header.png" alt="로고" style="width:100%;">
 
 **About me**
 
