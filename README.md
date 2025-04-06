@@ -1,6 +1,3 @@
-<br />
-<img src="https://github.com/codefug/codefug/raw/master/assets/gh-readme-header.png" alt="로고" style="width:100%;">
-
 **About me**
 
 - **Resume**: https://www.figma.com/proto/KSWARGDkXi9Wt8ARq2uGCa/leeseounghyun-resume?node-id=401-2&node-type=canvas&t=z2H9bL74afXrrgPS-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1
