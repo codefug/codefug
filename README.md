@@ -15,6 +15,8 @@
 
 **Passionate About Learning and Collaboration!**
 
-I love learning new technologies and am passionate about working with like-minded individuals. If you're interested in collaborating or just want to chat about tech, feel free to contact me!
+I love learning new technologies and am passionate about working with like-minded individuals.
+<br/>
+If you're interested in collaborating or just want to chat about tech, feel free to contact me!
 
 <br />
