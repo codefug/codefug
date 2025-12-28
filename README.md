@@ -6,9 +6,6 @@
 
 - **Blog** </a> : https://codefug.github.io
 
-| <a href="https://github.com/codefug/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=codefug&show_icons=true&title_color=0047A0&text_color=000000&icon_color=CC303B&bg_color=FFFFFF&" alt="Codefug's github stats" /></a> |
-| ------------- |
-
 <hr/>
 
 **<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" alt="Robot" width="25" height="25" /> Skills I Love**
