@@ -12,4 +12,10 @@ turning personal improvements into growth for the whole team.
 
 ---
 
-&nbsp;&nbsp;📄 &nbsp;[Resume](https://codefug.github.io)&nbsp;&nbsp;·&nbsp;&nbsp;💼 &nbsp;[LinkedIn](https://www.linkedin.com/in/lee-seung-hyun)&nbsp;&nbsp;·&nbsp;&nbsp;✉️ &nbsp;[leeseounghyun9917@gmail.com](mailto:leeseounghyun9917@gmail.com)
+&nbsp;&nbsp;🛜 &nbsp;[Blog](https://codefug.github.io)
+<br/>
+&nbsp;&nbsp;📄 &nbsp;[Resume](https://codefug.github.io/resume/)&nbsp;&nbsp;
+<br/>
+&nbsp;&nbsp;💼 &nbsp;[LinkedIn](https://www.linkedin.com/in/lee-seung-hyun)&nbsp;&nbsp;
+<br/>
+&nbsp;&nbsp;✉️ &nbsp;[Email](mailto:leeseounghyun9917@gmail.com)
