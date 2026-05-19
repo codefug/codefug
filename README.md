@@ -25,14 +25,6 @@ I document everything I fix, learn, and discover — turning personal improvemen
 
 <div align="center">
 
-![Streak](https://streak-stats.demolab.com?user=codefug&hide_border=true&theme=default)
-
-</div>
-
----
-
-<div align="center">
-
 &nbsp;&nbsp;🛜 &nbsp;[Blog](https://codefug.github.io)
 <br/>
 &nbsp;&nbsp;📄 &nbsp;[Resume](https://codefug.github.io/resume/)&nbsp;&nbsp;
