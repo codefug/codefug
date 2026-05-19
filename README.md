@@ -1,31 +1,17 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&weight=900&size=32&duration=2000&pause=1000&color=A10000&center=true&vCenter=true&width=300&height=70&lines=Codefug)](https://git.io/typing-svg)
 
-**Developer**
-
-</div>
-
-```typescript
-// github.com/codefug
-const dev = {
-  values:   ["team-first", "detail-oriented", "curious"],
-  approach: "root-cause first",
-  style:    "clear communicator",
-  location: "Seoul, KR",
-} as const;
-```
-
-I don't stop until the problem is truly solved.  
-I document everything I fix, learn, and discover — turning personal improvements into growth for the whole team.
-
----
 
 <div align="center">
 
 [![codefug's blog](./assets/blog-preview.png)](https://codefug.github.io)
 
 </div>
+
+**Developer**
+
+I don't stop until the problem is truly solved.  
+I document everything I fix, learn, and discover — turning personal improvements into growth for the whole team.
 
 ---
 
