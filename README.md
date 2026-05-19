@@ -4,13 +4,48 @@
 
 **Developer**
 
+</div>
+
+```typescript
+// github.com/codefug
+const dev = {
+  values:   ["team-first", "detail-oriented", "curious"],
+  approach: "root-cause first",
+  style:    "clear communicator",
+  location: "Seoul, KR",
+} as const;
+```
+
 I don't stop until the problem is truly solved.  
-I believe the best communication is written down — so I document everything I fix, learn, and discover,  
-turning personal improvements into growth for the whole team.
+I document everything I fix, learn, and discover — turning personal improvements into growth for the whole team.
+
+---
+
+<div align="center">
+
+[![codefug's blog](./assets/blog-preview.png)](https://codefug.github.io)
 
 </div>
 
 ---
+
+<div align="center">
+
+[![Trophy](https://github-profile-trophy.vercel.app/?username=codefug&theme=flat&no-frame=true&no-bg=true&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+<div align="center">
+
+![Streak](https://streak-stats.demolab.com?user=codefug&hide_border=true&theme=default)
+
+</div>
+
+---
+
+<div align="center">
 
 &nbsp;&nbsp;🛜 &nbsp;[Blog](https://codefug.github.io)
 <br/>
@@ -19,3 +54,5 @@ turning personal improvements into growth for the whole team.
 &nbsp;&nbsp;💼 &nbsp;[LinkedIn](https://www.linkedin.com/in/lee-seung-hyun)&nbsp;&nbsp;
 <br/>
 &nbsp;&nbsp;✉️ &nbsp;[Email](mailto:leeseounghyun9917@gmail.com)
+
+</div>
