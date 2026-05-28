@@ -17,14 +17,6 @@ I document everything I fix, learn, and discover — turning personal improvemen
 
 <div align="center">
 
-[![Trophy](https://github-profile-trophy.vercel.app/?username=codefug&theme=flat&no-frame=true&no-bg=true&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-<div align="center">
-
 &nbsp;&nbsp;🛜 &nbsp;[Blog](https://codefug.github.io)
 <br/>
 &nbsp;&nbsp;📄 &nbsp;[Resume](https://codefug.github.io/resume/)&nbsp;&nbsp;
