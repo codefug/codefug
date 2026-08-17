@@ -30,13 +30,10 @@
 - **직접 만들기** — 필요한 도구가 없으면 만들어서 씁니다.
 - **팀에 연결** — 개인의 발견이 팀 전체의 변화로 이어질 때 가장 보람을 느낍니다.
 
-<br/>
+## Tech Stack
 
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=codefug&hide_border=true&theme=default" height="165" alt="streak stats" />
-
-</div>
+- **Currently using** — TypeScript, React, Next.js, JavaScript, HTML/CSS, Node.js
+- **Also worked with** — NestJS, SCSS, Python, Kotlin, Java, C, C#
 
 <br/>
 
