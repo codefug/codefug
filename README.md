@@ -1,10 +1,10 @@
 <div align="center">
 
-[![codefug's blog](./assets/blog-preview.png)](https://codefug.github.io)
+<img width="1470" height="734" alt="image" src="https://github.com/user-attachments/assets/cbc0f440-4f79-4863-a18d-75d74a59c926" />
 
 ### 이승현 (Seunghyun Lee) — Frontend Developer
 
-뭔가 이상하다 싶으면 원인을 찾을 때까지 확인합니다.<br/>
+어떤 문제에 대해서 근본적인 원인을 찾을 때까지 연구하여 구조를 개선합니다.<br/>
 알게 된 건 블로그와 팀 문서로 남겨서, 개인의 발견을 팀의 자산으로 만듭니다.
 
 &nbsp;
@@ -33,6 +33,5 @@
 ## Contact
 
 - **Blog** — [codefug.github.io](https://codefug.github.io)
-- **GitHub** — [@codefug](https://github.com/codefug)
 - **LinkedIn** — [이승현](https://www.linkedin.com/in/lee-seung-hyun-568565269/)
 - **Resume** — [이력서](https://codefug.github.io/resume/)
